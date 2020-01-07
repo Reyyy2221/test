@@ -8,6 +8,7 @@ public class Sb1920Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Sb1920Application.class, args);
+		//This is wired
 	}
 
 }
